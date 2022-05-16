@@ -6,7 +6,7 @@ Skills: Php (Codeigniter, Laravel) / Flutter / Sql / Javascript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fcalisan&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fcalisan)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fcalisan&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/fcalisan)  
 
