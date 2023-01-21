@@ -1,5 +1,5 @@
 
-Skills: Php (Codeigniter, Laravel) / Flutter / Sql / Javascript
+Skills: Php (Codeigniter, Laravel) / React / Vue / React Native / Flutter / Sql / Javascript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fcalisan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.fatihcalisan.com)  
