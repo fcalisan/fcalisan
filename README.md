@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fcalisan/fcalisan/output/snake.svg" alt="Snake animation" />
+<figure><embed src="https://wakatime.com/share/@fcalisan/a72c4800-4be3-4f25-a1ce-77da4207553f.svg"></embed></figure>
 
 ###
 
